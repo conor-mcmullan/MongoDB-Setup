@@ -1,2 +1,2 @@
 # MongoDB-Setup
-My personal mongod &amp; mongosh setup instructions.
+My personal mongod & mongosh setup instructions.
