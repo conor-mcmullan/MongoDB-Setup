@@ -13,4 +13,6 @@ if __name__ == "__main__":
     full_path = get_full_path(config_file_path)
 
     # Print the full path
-    print(f"Full path to the config file: {full_path}")
+    print(f"Full path to the config file:\t{full_path}")
+
+    print(f"Repo Relative Path:\t\t{config_file_path}")
